@@ -2,3 +2,4 @@ streamlit
 openai
 pymongo
 urllib.parse
+pandas
